@@ -1,4 +1,5 @@
-Markdown
-# Currículo de Masiel Yaxury Castillo Rodríguez
 
-[Ver mi currículum](Curriculum en HTML.html)
+
+# ¡Hola!  Soy Masiel Castillo y este es mi currículum vitae.
+
+[Presiona en este link para ver mi curriculum vitae](Curriculum en HTML.html)
